@@ -1,5 +1,7 @@
 # sessionmgr
 
+> **Archived — merged into [Rusty Mill](https://github.com/Rusty-Mill/rusty_mill).** This crate now lives at [`crates/rusty_yirp`](https://github.com/Rusty-Mill/rusty_mill/tree/main/crates/rusty_yirp) in the Rusty Mill monorepo, which is where active development, issues, and pull requests happen now. This standalone repo is kept for historical reference only.
+
 A Windows-native Rust session manager for AI coding-agent CLIs — Claude Code,
 Codex, and Gemini CLI — where each session is optionally isolated in its own
 git worktree, presented through a TUI grid dashboard, and **survives the
